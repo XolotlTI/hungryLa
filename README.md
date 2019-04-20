@@ -1,6 +1,6 @@
 # hungryla
 
-> un valle místico y armonioso donde siempre habra una opcion para comer
+> un valle místico y armonioso donde siempre habrá una opción para comer
 
 ## Build Setup
 
